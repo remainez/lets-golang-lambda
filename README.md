@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Simple golang environment for lambda by AWS SAM
+Simple golang environment template for lambda with AWS SAM.
+AWS SAMによるシンプルなlambda用golang環境テンプレート。
 
 ## Usage
 
